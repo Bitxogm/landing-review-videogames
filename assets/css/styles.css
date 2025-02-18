@@ -1,0 +1,5 @@
+/* Cargamos fuente monserrat par todo el body */
+body{
+    font-family: "Montserrat";
+    font-weight: 500;
+}
